@@ -1,0 +1,5 @@
+03-05-24 16:57:06 - WDM - INFO - ====== WebDriver manager ======
+03-05-24 16:57:06 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+03-05-24 16:57:06 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+03-05-24 16:57:06 - WDM - INFO - Driver [/home/oleg/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver] found in cache
+03-05-24 16:57:10 - root - ERROR - Login button clicked
